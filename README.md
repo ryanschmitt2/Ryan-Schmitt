@@ -1,6 +1,7 @@
 <h1>Hi, I'm Ryan! </h1>
 
 <h2>Tech Support History: </h2>
+[Home Lab](https://github.com/ryanschmitt2/HomeLab)
 
 <h2>Certifications: </h2>
 
