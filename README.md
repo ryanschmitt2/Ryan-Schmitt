@@ -1,1 +1,26 @@
-# Ryan-Schmitt
+<h1>Hi, I'm Ryan! </h1>
+
+<h2>Certifications: </h2>
+
+[CompTIA A+](https://www.comptia.org/en-us/certifications/a/core-1-and-2-v15/?_gl=1*1mpn3n9*_up*MQ..*_ga*NDgxNzczNTUwLjE3NzU2Njg3NDc.*_ga_Z1ZV6990VN*czE3NzU2Njg3NDYkbzEkZzAkdDE3NzU2Njg3NDYkajYwJGwwJGgxMTQxNzE5NzcwJGRPanJTU0tTdVFDd0dOWVE3Nk45RHNuQW5Ba3d3QjdVX1JB)
+
+[CompTIA Security+](https://www.comptia.org/en-us/certifications/security/)
+
+<h2> Connect with me:</h2>
+
+[linkedin](www.linkedin.com/in/rschmitt92)
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
