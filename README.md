@@ -1,6 +1,10 @@
 <h1>Hi, I'm Ryan! </h1>
 
+<h2>Current Project: </h2>
+-Network Stablity Improvements
+
 <h2>Tech Support History: </h2>
+
 [Home Lab](https://github.com/ryanschmitt2/HomeLab)
 
 <h2>Certifications: </h2>
@@ -9,6 +13,6 @@
 
 [CompTIA Security+](https://www.comptia.org/en-us/certifications/security/)
 
-<h2> Connect with me:</h2>
+<h2>Connect With Me:</h2>
 
 [linkedin](www.linkedin.com/in/rschmitt92)
