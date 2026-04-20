@@ -5,7 +5,8 @@
 
 <h2>Tech Support History: </h2>
 
-[Home Lab](https://github.com/ryanschmitt2/HomeLab)
+[Home Lab](https://github.com/ryanschmitt2/HomeLab)\
+[Thunderbird Issues](https://github.com/ryanschmitt2/Thunderbird-Issues)
 
 <h2>Certifications: </h2>
 
