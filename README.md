@@ -1,11 +1,12 @@
 <h1>Hi, I'm Ryan! </h1>
 
 <h2>Current Project: </h2>
--Network Stablity Improvements
+
+[Home Lab](https://github.com/ryanschmitt2/HomeLab)\
+  -Network Stablity Improvements
 
 <h2>Tech Support History: </h2>
 
-[Home Lab](https://github.com/ryanschmitt2/HomeLab)\
 [Thunderbird Issues](https://github.com/ryanschmitt2/Thunderbird-Issues)
 
 <h2>Certifications: </h2>
